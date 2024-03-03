@@ -1,4 +1,5 @@
 <body background="https://img.freepik.com/free-vector/abstract-geometric-wireframe-background_52683-59421.jpg?w=996&t=st=1706205498~exp=1706206098~hmac=c1f8c811c5c3e2d2febd245df64b5270f8f7e45d6fdfd1122f0adc06ee135e73">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AashiqRahaman&label=Profile%20views&color=0e75b6&style=flat" alt="AashiqRahaman" /> </p>
 
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://camo.githubusercontent.com/2392f4f8f3d9452a3d2f770c0eab182a9f588a157443770089f2b369e942c577/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67"></div>
 
