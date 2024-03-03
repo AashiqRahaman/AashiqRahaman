@@ -33,7 +33,7 @@
 
 
 
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AashiqRahaman&show_icons=true&locale=en&layout=compact" alt="AashiqRahaman" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AashiqRahaman&" alt="Ar(Contribution Monitor)" /></p>
 </body>
