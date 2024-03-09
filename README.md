@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on *To up-skill my web development* <br>
 - 🌱 I’m currently learning *Pandas,Numpy,Ocaml(functional programming language)* <br>
 - 📫 How to reach me *aashiqrahaman135@gmail.com* <br>
-- 📄 about my experiences [I am now in the learning phase...](I am now in the learning phase...) <br>
+- 📄 about my experiences [I am now in the learning phase...](...) <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@aashiq95394379" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@aashiq95394379" height="30" width="40" /></a>
