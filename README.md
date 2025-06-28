@@ -4,7 +4,8 @@
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="github_header.png"></div>
 
 <div align="center" width="100%">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=Hi👋+I'm+Aashiq+Rahaman; CSE+Student+of+MAKAUT; Welcome+to+My+Profile" alt=" Computer Engineering Student"></a>
+            <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=Hi👋+I'm+Aashiq+Rahaman;Welcome+to+My+Profile;A+Student+of+Computer+Engineering" alt="Typing" class="typing" /></a>
+
 </div>
 <h1 align="center">Hi 👋, I'm Aashiq Rahaman</h1>
 <h3 align="center">A passionate Techie from India</h3>
